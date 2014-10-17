@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpe:home|Door43 (mpe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpe|d43-mpe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpe/archive/master.zip|d43-mpe.zip]]
+
+**Recent Changes**
+{{changes>ns = mpe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpe|Ethnologue data]]
+
